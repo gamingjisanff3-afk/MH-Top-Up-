@@ -1,0 +1,15 @@
+{
+  "id": "./",
+  "name": "NOVA TOPUP",
+  "short_name": "NOVA TOPUP",
+  "description": "Free Fire top-up storefront",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f6fb",
+  "theme_color": "#087eb5",
+  "orientation": "portrait-primary",
+  "icons": [
+    {"src": "assets/nova-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}
